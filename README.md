@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Gabriel-takaki/Gabriel-takaki** 19 anos - BR-mg 
+**Gabriel-takaki** 19 anos - BR-mg 
 
-Here are some ideas to get you started:
+Um pouco sobre mim.
 
 - 🔭 Desenvolvedor Web FrontEnd...
 - 🌱  Estudando BackEnd...
