@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Gabriel Takaki</h1>
 <h3 align="center">Desenvolvedor web FullStack.</h3>
 
+- 💬  Atuando Atualmente como Desenvolvedor Full Stack (Angular && Node && Python) pela j2fStartup
 - 🔭 Desenvolvedor FullsTack pela TRYBE...
 - 👯  Estudante de Engenharia de Software ...
-- 💬  Atuando Atualmente como Desenvolvedor Full Stack pela j2fStartup
 - 📫    Meu linkedin => https://www.linkedin.com/in/gabriel-felipe-takaki-/...
 
 
